@@ -1,7 +1,7 @@
 # Supplementary web-page for SApHLP
 Supplementary Web-page for Manuscript:
 
-Single allocation *p*-hub location problem with ring backbone network for content placement in VoD services: a PSO-based approach
+A new variant of the *p*-hub location problem with a ring backbone network for content placement in VoD services
 
 Authors: Soumen Atta, Goutam Sen 
 
